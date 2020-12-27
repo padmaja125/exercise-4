@@ -1,3 +1,6 @@
 *.txt
 !debug.html
-
+*.exe
+*.o
+*.jar
+file.txt
